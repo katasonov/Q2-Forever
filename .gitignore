@@ -51,3 +51,4 @@ Thumb*
 _Upgrade*
 *.asmx
 syntax: glob
+quake2.VC.db
